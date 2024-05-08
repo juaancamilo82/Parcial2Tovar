@@ -7,6 +7,7 @@ data = [
     [17, 210], [18, 207], [19, 225], [20, 223], [21, 257], [22, 232], [23, 240], [24, 241]
 ]
 
+
 # Crear un DataFrame a partir de la lista
 df = pd.DataFrame(data, columns=["Mes", "Ventas"])
 

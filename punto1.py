@@ -6,6 +6,7 @@ def generar_tiempo_llegada():
     return minutos * 60 + segundos
 
 # Tiempo de servicio determinístico
+
 tiempo_servicio = 240  # segundos (4 minutos)
 
 # Capacidad máxima del sistema (servicio y espera)
